@@ -1,2 +1,2 @@
 # c++
-Aulas de C++ Faculdade
+Exercícios em C++ Faculdade
