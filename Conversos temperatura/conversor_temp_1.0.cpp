@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 #include<stdlib.h>
 
 using namespace std;
@@ -8,7 +8,7 @@ int c, f;
 
 
 	cout << "Digite a temperatura em Fahrenheit para ser transformada em Celsius \n";
-	cin>> f;
+	cin >> f;
 	c=(f-32)/1.8;
 	cout << "A temperatura em Celsius e " << c << "\n" ;
 	system("pause");
